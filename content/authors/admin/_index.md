@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Thomas Spence
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Research Assistant
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️🥽
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
+- name: UCSD
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the use of psychedelics on neurogenesis, and psychedelic based treatment for addiction.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Psychedelics 
+- Addiction
+- Neurogenesis
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+Education:
+courses:
+  - course: BS in Clinical Psychology
+   institution: University of California San Diego
+   year: 2022
+  - course: Associates of Arts in Natural Science
+    institution: Monterey Peninsula College
+    year: 2020
+  - course: Associates of Arts in Social Science
+    institution: Monterey Peninsula College
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +44,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'about/#contact'  # For a direct email link, use "mailto:thomas.spence02@gmail.com".
+- icon: LinkedIn
   icon_pack: fab
-  link: https://twitter.com/wowchemy
+  link: https://www.linkedin.com/in/thomas-neal-spence-0784b3154/
 - icon: instagram
   icon_pack: fab
-  link: https://instagram.com/geocushen
+  link: https://www.instagram.com/thomas._spence/?hl=en
 
 # Uncomment below for Github link
 #- icon: github
@@ -67,6 +67,6 @@ social:
 #email: ""
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Thomas Spence is a psychology undergraduate student at UCSD. His research interests include the use of psychedelics on neurogenesis, and psychedelic based treatment for addiction.
+ He helps lead reseaech on the cognitive decline in elderly drivers.  He also taught a couse at UCSD on clinical psychology and clinical assessment and treatment, which taught students appropriate evidence-based interventions for mental disorders. Other topics include psychiatric emergencies, crisis management, and ethics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
