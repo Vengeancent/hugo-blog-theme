@@ -11,13 +11,12 @@ role: Research Assistant
 # Status emoji
 status:
   icon: ☕
-
-# Organizations/Affiliations
+ Organizations/Affiliations
 organizations:
 - name: UCSD
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
+ Short bio (displayed in user profile at end of posts)
 bio: My research interests include the use of psychedelics on neurogenesis, and psychedelic based treatment for addiction.
 
 interests:
