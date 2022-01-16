@@ -10,7 +10,7 @@ role: Research Assistant
 
 # Status emoji
 status:
-  icon: ☕️🥽
+  icon: ☕
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ interests:
 - Neurogenesis
 
 Education:
-courses:
+#courses:
   - course: BS in Clinical Psychology
    institution: University of California San Diego
    year: 2022
