@@ -26,7 +26,7 @@ interests:
 - Neurogenesis
 
 Education:
-#courses:
+courses:
   - course: BS in Clinical Psychology
    institution: University of California San Diego
    year: 2022
@@ -44,13 +44,13 @@ Education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:thomas.spence02@gmail.com".
+  link: 'about/#contact'  # For a direct email link, use "<mailto:thomas.spence02@gmail.com>".
 - icon: LinkedIn
   icon_pack: fab
-  link: https://www.linkedin.com/in/thomas-neal-spence-0784b3154/
+  link: "<https://www.linkedin.com/in/thomas-neal-spence-0784b3154/>"
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/thomas._spence/?hl=en
+  link: "<https://www.instagram.com/thomas._spence/?hl=en>"
 
 # Uncomment below for Github link
 #- icon: github
